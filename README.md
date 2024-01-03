@@ -32,3 +32,8 @@ Instructions
 # Solution
 To solve this challenge, place the <heading> and <paragraph> element that is in the body in a <div> tag or the best perferable and give it a class. 
 Add the necessary code to achieve the desire result.
+
+# Challenge 3 
+This is a summary of week one of the challenge. 
+
+Here we recreate a hero section of a webpage. It is an easy way to practice. 
