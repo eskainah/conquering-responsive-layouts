@@ -49,3 +49,13 @@ This is an introduction to flexbox
    color of text
 4. I've removed the "gap" that I created,
    so you'll have to add it back in
+# FLex box Challenge 2
+1. Refer to the design specs for the
+   overall layout 
+2. The image should line up with
+   the sidebar in the section
+   below
+   
+# Nav Challenge
+ 1. Get all the navigation items next to one another
+2. Add a space between all the items
