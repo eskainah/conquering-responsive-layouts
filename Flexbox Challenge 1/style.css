@@ -42,16 +42,25 @@ h1 {
 .row {
     /* display: flex => flex container */
     display: flex;
-
+    padding: 50px;
     /* can't use yet */
     /* gap: 100px; */
 }
-
+.row-color{
+    h2{
+        color: #87629A;
+    }
+}
 .col {
     /* these are now flex items */
     width: 100%;
+    font-size: 1rem;
+    text-align: center;
 }
 
+.col + .col{
+    margin-left: 30px;
+}
 .hero {
     padding: 100px 0;
     background-color: #23424A;
@@ -80,4 +89,9 @@ h1 {
 .btn:hover,
 .btn:focus {
     opacity: .75; 
+}
+
+.row2_holder{
+    background-color: #136C72;
+    color: #FFF;
 }
