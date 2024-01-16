@@ -19,7 +19,7 @@
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 
 img {
@@ -86,4 +86,17 @@ h1 {
 .btn:hover,
 .btn:focus {
     opacity: .75; 
+}
+
+.main_text{
+    width: 62%;
+
+    h1{
+        color: #136C72;
+        font-size: 2.3rem;
+    }
+}
+.sidebar{
+    width: 32%;
+    border: 2px solid yellow;
 }
