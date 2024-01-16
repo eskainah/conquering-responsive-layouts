@@ -36,9 +36,10 @@ Add the necessary code to achieve the desire result.
 # Challenge 3 
 This is a summary of week one of the challenge. 
 
+Here we recreate a hero section of a webpage. It is an easy way to practice. 
+
 # Challenge 4
-This is an introduction to flex box.
- 
+This is an introduction to flexbox
 1. The headings in the first row must be
    a different color
 2. The two .col at the bottom must go next
@@ -48,5 +49,3 @@ This is an introduction to flex box.
    color of text
 4. I've removed the "gap" that I created,
    so you'll have to add it back in
-
-Here we recreate a hero section of a webpage. It is an easy way to practice. 
