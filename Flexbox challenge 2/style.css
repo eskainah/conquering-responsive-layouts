@@ -87,22 +87,21 @@ h1 {
     opacity: .75; 
 }
 
+.main{
+    margin-top: 3em;
+}
+
 .main_text{
     width: 62%;
-    margin-top: 50px;
-    h1{
+    h2{
         color: #136C72;
         font-size: 2.3rem;
     }
 }
 .sidebar{
     width: 32%;
-    background-color: #136C72;
-    margin-top: 50px;
-}
-.cards{
-    
-    padding: 10px 50px;
+    background-color: #136C72;    
+    padding: 1em 3em;
     text-align: center;
     color: #FFF;
 }
