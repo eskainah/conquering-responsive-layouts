@@ -41,9 +41,7 @@ h1 {
     /* display: flex => flex container */
     display: flex;
     justify-content: space-between;
-    
-    /* can't use yet */
-    /* gap: 100px; */
+    border: 2px solid gold;
 }
 
 .col {
@@ -71,7 +69,7 @@ h1 {
 }
 
 .hero p {
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 .btn {
