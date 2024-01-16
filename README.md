@@ -36,4 +36,7 @@ Add the necessary code to achieve the desire result.
 # Challenge 3 
 This is a summary of week one of the challenge. 
 
+# Challenge 4
+This is an introduction to flex box. 
+
 Here we recreate a hero section of a webpage. It is an easy way to practice. 
