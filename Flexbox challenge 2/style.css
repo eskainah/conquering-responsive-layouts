@@ -41,7 +41,6 @@ h1 {
     /* display: flex => flex container */
     display: flex;
     justify-content: space-between;
-    border: 2px solid gold;
 }
 
 .col {
@@ -90,7 +89,7 @@ h1 {
 
 .main_text{
     width: 62%;
-
+    margin-top: 50px;
     h1{
         color: #136C72;
         font-size: 2.3rem;
@@ -98,5 +97,12 @@ h1 {
 }
 .sidebar{
     width: 32%;
-    border: 2px solid yellow;
+    background-color: #136C72;
+    margin-top: 50px;
+}
+.cards{
+    
+    padding: 10px 50px;
+    text-align: center;
+    color: #FFF;
 }
