@@ -81,7 +81,7 @@ header {
     align-items: baseline;
 }
 .nav__item{
-    padding: 10px;
+    margin-right: 1em;
 }
 
 .nav__link {
