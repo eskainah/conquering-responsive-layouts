@@ -136,3 +136,24 @@ header {
     color: #fff;
     background-color: #136c72;
 }
+@media (max-width: 600px) {
+    .row{
+        display: block;
+    }
+
+    .hero__text,
+    .hero__img, 
+    .sidebar, 
+    .primary-content
+    {
+        width: 100%;
+    }
+
+    .hero__img{
+        margin-top: 2em;
+    }
+
+    .nav__link{
+        font-size: 1.1rem;
+    }
+}
