@@ -64,10 +64,40 @@ header {
 
 .nav {
     width: 100%;
+    font-size: 1rem;
+}
+.nav__list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.nav__item{
+    margin-top: .75em;
+}
+.nav__list li{
+    text-align: center;  
+    
+}
+.nav__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
 }
 
+.nav__link:hover, 
+.nav__link:focus{
+    opacity: .65;
+}
 
-
+.nav__list--primary{
+    margin-bottom: 2em;
+}
+.nav__link--button{
+    padding: .25em .75em;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #23424A;
+}
 .nav-toggle {
     cursor: pointer;
     border: 0;
