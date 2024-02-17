@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:wght@300&display=swap');
+
+:root{
+    --accent-primary: #2E323F;
+    --accent-secondary: #3B4050;
+    --accent-light: #6F737F;
+    --accent-text-light: #FFFFFF;
+    --accent-brown: #A59678;
+}
+
+*, ::before, ::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Oswald", "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
